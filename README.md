@@ -4,6 +4,8 @@
 
 `python 01_scb_assignment.py` - For Linux / Mac Machines
 
+## Answers to the questions posted during the discussion:
+
 #### Given this JSON as a sample, how will you write a short script/program to process this json and store into databases
 > Done. I commited the file named `01_scb_assignment.py` with the code
 
@@ -18,7 +20,7 @@
 >  - if the name field is missing or has a None value
 >  - if the first element of the name list is missing, empty, or invalid
 
-#### Supporting Screenshots:
+## Supporting Screenshots:
 
 Python Execution:
 
